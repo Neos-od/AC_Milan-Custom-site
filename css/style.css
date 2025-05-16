@@ -1,5 +1,8 @@
 @charset "utf-8";
 
+html {
+	overflow-x: hidden;
+}
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, table, dl, dd {
 	margin: 0;
 	padding: 0;
@@ -19,6 +22,9 @@ img {
 	height: 100%;
 	vertical-align: top;
 	border: none;
+}
+html {
+	overflow-x: hidden;
 }
 body {
 	overflow-x: hidden;
@@ -204,7 +210,7 @@ header .tab.close .hide{
 		padding-top: 7vh;
 		height: 100vh;
 		width: 50%;
-		min-width: 300px;
+		/* min-width: 300px; */
 		background-color: #fff;
 		transition: right 0.3s ease-out;
 	}
@@ -261,6 +267,7 @@ header .tab.close .hide{
 /* slider */
 
 .slider {
+	width: 100vw;
 	height: 100vh;
 	min-height: 700px;
 	position: relative;
@@ -353,6 +360,12 @@ section .title > span {
 	text-align: center;
 	font-size: 0.875em;
 	color: #777777;
+}
+
+@media only screen and (max-width: 460px) {
+	section .title > span {
+		font-size: 0.8em;
+	}
 }
 
 /* business */
@@ -624,7 +637,6 @@ section .title > span {
 		position: absolute;
 		left: 237px;
 		width: calc(100% - 250px);
-		border: 1px solid #fff;
 	}
 	#history .text_left p br, #history .text_right p br {
 		display: none;
@@ -663,6 +675,7 @@ section .title > span {
 }
 #awards .title > strong {
 	color: #fff;
+	text-align: center;
 }
 #awards .title > span {
 	color: #b9b9b9;
@@ -714,17 +727,6 @@ section .title > span {
 		padding: 150px 0 260px 0;
 	}
 }
-/* @media only screen and (max-width: 720px) {
-	#awards ul {
-		display: block;
-	}
-}  */
-@media only screen and (max-width: 460px) {
-	#awards {
-		padding: 100px 44px 103px 44px;
-	}
-} 
-
 /* signature */
 .signature {
 	background-color: #fff;
@@ -928,7 +930,7 @@ footer .ft_inner .sns ul li {
 		margin-top: 20px;
 	}
 }
-/* 탭 메뉴 opcity 효과 */
+/* 딤창 */
 .dimmed {
 	display: none;
 	position: fixed;
