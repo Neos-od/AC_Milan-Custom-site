@@ -148,9 +148,11 @@
 | 모바일 메인페이지 | 모바일 메뉴 | 구단의 역사 |
 |------------------|------------|-------------|
 | ![](images/mobile_slider.png) | ![](images/mobile_menu.png) | ![](images/mobile_history.png) |
+
+
 | 챔피언스컵 위너 | 발롱도르 위너 | 비지니스 구축 |
+|------------------|------------|-------------|
 | ![](images/mobile_champs.png) | ![](images/mobile_winners.png) | ![](images/mobile_business.png) |
----------------------------------------------
 
 </br>
 
