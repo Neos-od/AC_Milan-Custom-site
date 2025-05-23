@@ -17,16 +17,10 @@
 ### 🛠️ 사용 기술
 | | |
 |------|------|
-| HTML5 |![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)| 
-| CSS3 |![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)|
-| Javascript |![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)| 
-| Respond web |![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=htmlacademy&logoColor=ffffff)|
-| Github |![Github](https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github)|
-| Vercel |![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000)|
+
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,github,vercel)
 
-|  |  |
 <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=000000"/><img src="https://img.shields.io/badge/HTML5-F05032?style=flat-square&logo=HTML5&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/CSS3-007ACC?style=flat-square&logo=CSS3&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Respond web -ca6598?style=flat-square&logo=htmlacademy&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000"/>
 
 </br>
