@@ -95,7 +95,7 @@
 - 모바일 뷰일 경우 탭의 상태를 변경하여 메뉴를 열거나 닫습니다.
 - 탭 클릭 시 관련 클래스를 추가하거나 제거합니다.
 
-<img src="images/mobile_menu.png" width="" alt="탭 클릭 이벤트">
+<img src="images/mobile_tab.gif" width="320px" alt="탭 클릭 이벤트">
 
  ``` JavaScript
 	let topPos=0;
