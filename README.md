@@ -20,9 +20,9 @@
 | HTML5 |![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)| 
 | CSS3 |![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)|
 | Javascript |![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)| 
-| Respond web |![Respond web](https://img.shields.io/badge/-Respond%20web-8800ff?style=flat-square&logo=htmlacademy&logoColor=ffffff)|
+| Respond web |![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=htmlacademy&logoColor=ffffff)|
 | Github |![Github](https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github)|
-| Vercel |![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel&logoColor=efefef)|
+| Vercel |![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000)|
 
 </br>
 
