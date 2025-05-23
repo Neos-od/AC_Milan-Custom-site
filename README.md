@@ -22,7 +22,7 @@
 | Javascript |![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)| 
 | Respond web |![Respond web](https://img.shields.io/badge/-Respond%20web-8800ff?style=flat-square&logo=htmlacademy&logoColor=ffffff)|
 | Github |![Github](https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github)|
-| Vercel |![Vercel](https://img.shields.io/badge/-Vercel-444444?style=flat-square&logo=vercel&logoColor=efefef)|
+| Vercel |![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel&logoColor=efefef)|
 
 
 </br>
