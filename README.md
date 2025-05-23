@@ -15,8 +15,8 @@
 </br>
 
 ### 🛠️ 사용 기술
+| | |
 
-|-----------------|-----------------|
 | HTML5 |![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)| 
 | CSS3 |![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)|
 | Javascript |![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)| 
