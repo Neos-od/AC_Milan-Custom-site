@@ -16,7 +16,7 @@
 
 ### 🛠️ 사용 기술
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,github,vercel)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,vercel,htmlacademy)
 
 <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/HTML5-F05032?style=flat-square&logo=HTML5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSS3-007ACC?style=flat-square&logo=CSS3&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000"/> <img src="https://img.shields.io/badge/Respond web -ca6598?style=flat-square&logo=htmlacademy&logoColor=FFFFFF"/>
 
