@@ -21,7 +21,7 @@
 | CSS3 |![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)|
 | Javascript |![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)| 
 | Respond web |![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=htmlacademy&logoColor=ffffff)|
-| Github |![Github](https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github)|
+| Github |![Github](https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github&logoColor=000000)|
 | Vercel |![Vercel](https://img.shields.io/badge/-Vercel-444444?style=flat-square&logo=vercel&logoColor=efefef)|
 
 
